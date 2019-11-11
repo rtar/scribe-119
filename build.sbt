@@ -1,0 +1,1 @@
+libraryDependencies += "com.outr" %% "scribe" % "2.7.3"
